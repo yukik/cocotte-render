@@ -1,0 +1,27 @@
+{
+  "name": "cocotte-render",
+  "description": "cocotte用render ミドルウェア",
+  "homepage": "https://github.com/yukik/cocotte-render",
+  "keywords": [
+    "koa",
+    "middleware",
+    "cocotte"
+  ],
+  "author": "Yuki Kurata <yuki.kurata@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yukik/cocotte-render.git"
+  },
+  "main": "render.js",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukik/cocotte-render/issues"
+  }
+}
