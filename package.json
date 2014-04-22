@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git://github.com/yukik/cocotte-render.git"
   },
-  "main": "render.js",
-  "version": "0.1.0",
+  "main": "index.js",
+  "version": "0.1.1",
   "scripts": {
     "test": "node ./test/test.js"
   },
